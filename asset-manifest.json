@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/Institutional-Metadata/static/css/main.5e4e9510.chunk.css",
-    "main.js": "/Institutional-Metadata/static/js/main.5078f2e2.chunk.js",
-    "main.js.map": "/Institutional-Metadata/static/js/main.5078f2e2.chunk.js.map",
+    "main.css": "/Institutional-Metadata/static/css/main.f88195fb.chunk.css",
+    "main.js": "/Institutional-Metadata/static/js/main.924e2b98.chunk.js",
+    "main.js.map": "/Institutional-Metadata/static/js/main.924e2b98.chunk.js.map",
     "runtime-main.js": "/Institutional-Metadata/static/js/runtime-main.8b33ea27.js",
     "runtime-main.js.map": "/Institutional-Metadata/static/js/runtime-main.8b33ea27.js.map",
-    "static/js/2.4e6e63a9.chunk.js": "/Institutional-Metadata/static/js/2.4e6e63a9.chunk.js",
-    "static/js/2.4e6e63a9.chunk.js.map": "/Institutional-Metadata/static/js/2.4e6e63a9.chunk.js.map",
+    "static/css/2.54cf6cff.chunk.css": "/Institutional-Metadata/static/css/2.54cf6cff.chunk.css",
+    "static/js/2.93673f0a.chunk.js": "/Institutional-Metadata/static/js/2.93673f0a.chunk.js",
+    "static/js/2.93673f0a.chunk.js.map": "/Institutional-Metadata/static/js/2.93673f0a.chunk.js.map",
     "index.html": "/Institutional-Metadata/index.html",
-    "precache-manifest.740bbddd42ce769b992de8da63521952.js": "/Institutional-Metadata/precache-manifest.740bbddd42ce769b992de8da63521952.js",
+    "precache-manifest.2db6f0055f501cb0e52954ffbd5ddbac.js": "/Institutional-Metadata/precache-manifest.2db6f0055f501cb0e52954ffbd5ddbac.js",
     "service-worker.js": "/Institutional-Metadata/service-worker.js",
-    "static/css/main.5e4e9510.chunk.css.map": "/Institutional-Metadata/static/css/main.5e4e9510.chunk.css.map",
-    "static/media/logo.svg": "/Institutional-Metadata/static/media/logo.25bf045c.svg"
+    "static/css/2.54cf6cff.chunk.css.map": "/Institutional-Metadata/static/css/2.54cf6cff.chunk.css.map",
+    "static/css/main.f88195fb.chunk.css.map": "/Institutional-Metadata/static/css/main.f88195fb.chunk.css.map",
+    "static/media/mdb.css": "/Institutional-Metadata/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/data.PNG": "/Institutional-Metadata/static/media/data.84d60998.PNG",
+    "static/media/all.min.css": "/Institutional-Metadata/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/left-topic.png": "/Institutional-Metadata/static/media/left-topic.74778518.png",
+    "static/media/style.css": "/Institutional-Metadata/static/media/marble.8b804210.jpg",
+    "static/media/mid-topic.png": "/Institutional-Metadata/static/media/mid-topic.ace7509f.png",
+    "static/media/mwlogo.png": "/Institutional-Metadata/static/media/mwlogo.30914432.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b33ea27.js",
-    "static/js/2.4e6e63a9.chunk.js",
-    "static/css/main.5e4e9510.chunk.css",
-    "static/js/main.5078f2e2.chunk.js"
+    "static/css/2.54cf6cff.chunk.css",
+    "static/js/2.93673f0a.chunk.js",
+    "static/css/main.f88195fb.chunk.css",
+    "static/js/main.924e2b98.chunk.js"
   ]
 }
